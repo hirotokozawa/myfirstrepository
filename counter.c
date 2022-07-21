@@ -9,4 +9,5 @@ int main(void)
     }
 
     print(x);
+    print(x + x);
 }
